@@ -7,4 +7,5 @@
 ## My Leetcode stats
 
 <img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=ajayvishnu" width="100%">
+
 [![Profile views](https://komarev.com/ghpvc/?username=ajay-vishnu&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ajay-vishnu)
